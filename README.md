@@ -1,2 +1,2 @@
 # Machine-learning-from-scratch
-All machine learning algorithms coded from scratch using python
+A few machine learning algorithms coded from scratch using python.
